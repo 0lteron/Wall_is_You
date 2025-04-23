@@ -52,6 +52,10 @@ The game includes custom graphics and soundtracks:
 - **Characters**: Found in `Media/characters/`.
 - **Music**: Found in `Media/Music/`.
 
+
+**Note:** If the music library cannot be found or encounters bugs, try running `wall_is_you_no_music.py` file as an alternative remedy.
+
+
 ## Map Format
 
 Maps are stored as text files in `Media/maps/`. Each map file defines the layout, player position, enemies, and items.
